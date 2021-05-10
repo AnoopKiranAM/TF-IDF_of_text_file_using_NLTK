@@ -1,5 +1,5 @@
 # TF-IDF_of_text_file_using_NLTK
-### summarize automatically the given text using TF-IDF algorithms.
+### Summarize automatically the given text using TF-IDF algorithms.
 
 ## Task Competed:
 
